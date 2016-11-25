@@ -101,6 +101,7 @@ class ViewController: UIViewController {
             self.subtitle.text = ""
             self.body.text = ""
             self.intStepper.value = 1.0
+            self.time.text = Int(self.intStepper.value).description
         }
         alert.addAction(closeAction)
         
