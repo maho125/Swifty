@@ -1,4 +1,4 @@
-Small demo application for handling local notifications on iOS 10 wit User Notifications Framework
+Small demo application for handling local notifications on iOS 10 with User Notifications Framework
 
 <p align="left">
   <img src="https://github.com/maho125/Swifty/blob/master/LocalNotification/Notification1.png" width="200" />
